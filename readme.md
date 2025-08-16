@@ -18,5 +18,5 @@ It ensures you are always aware of new versions and what actions (if any) you sh
 
 ## Project Structure
 
-main.py - contains all the logic to get the latest releases from a repo
-llm.py - Calls the openai endpoint; can add support for other models but currently uses gpt-5
+- main.py - contains all the logic to get the latest releases from a repo
+- llm.py - Calls the openai endpoint; can add support for other models but currently uses gpt-5
